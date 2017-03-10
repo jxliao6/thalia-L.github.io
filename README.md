@@ -8,5 +8,6 @@ They are related to wide fields:
 - map 
 - data analysis
 - statistic analysis
+- etc.
 
 Have a good time!
