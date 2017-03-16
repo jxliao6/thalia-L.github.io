@@ -1,12 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to Thalia's Personal Pages
 
-You can use the [editor on GitHub](https://github.com/thalia-L/test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+My name is Thalia(Jingxian) Liao, And Welcome to my code show!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Personal information
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Email**: jxliao@ucdavis.edu
 
 ```markdown
 Syntax highlighted code block
