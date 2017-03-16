@@ -4,7 +4,24 @@ My name is Thalia(Jingxian) Liao, And Welcome to my code show!
 
 ### Personal information
 
+I am a graduate student at the department of Statistics at UC Davis. And I focused on the relationship between finance and real economy in my undergraduate time. And I am quite familiar with R, Python, C, and SAS. 
+
 **Email**: jxliao@ucdavis.edu
+
+### Project Exhibition
+
+- [NPL](https://github.com/thalia-L/thalia-L.github.io/blob/master/NPL.ipynb) 
+
+- [Web scrawl](https://github.com/thalia-L/thalia-L.github.io/blob/master/API.ipynb)
+
+- API
+
+- map 
+
+- [data analysis](https://github.com/thalia-L/thalia-L.github.io/blob/master/nutrition%20comparison%20between%20multiple%20fruit%20and%20vegetable.ipynb)
+
+- statistic analysis
+
 
 ```markdown
 Syntax highlighted code block
