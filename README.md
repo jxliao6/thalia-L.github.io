@@ -12,6 +12,8 @@ I am a graduate student at the department of Statistics at UC Davis. And I focus
 
 - [NPL](https://github.com/thalia-L/thalia-L.github.io/blob/master/NPL.ipynb) 
 
+
+
 - [Web scrawl](https://github.com/thalia-L/thalia-L.github.io/blob/master/API.ipynb)
 
 - API
@@ -19,6 +21,8 @@ I am a graduate student at the department of Statistics at UC Davis. And I focus
 - map 
 
 - [data analysis](https://github.com/thalia-L/thalia-L.github.io/blob/master/nutrition%20comparison%20between%20multiple%20fruit%20and%20vegetable.ipynb)
+
+Nutrition Comparison between Multiple Fruits and Vegetables. The data is from a survey of the US Department of Agriculture.
 
 - statistic analysis
 
