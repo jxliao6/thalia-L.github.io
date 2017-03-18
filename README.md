@@ -14,24 +14,24 @@
 
 <p>Scrape text from The California Aggie website and then analyze the text.</p>
 
-- **Web scrawl**
+- **Web Scrawl**
 
 - **[API](https://github.com/thalia-L/thalia-L.github.io/blob/master/API.ipynb)**
 
 <p>Use the USDA Food Composition Databases's documented web API and search the specific NDB number for the food we are interested.</p>
 
-- **[map](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map.pdf)**
+- **[Map](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map.pdf)**
 
 Map Description of the data 2017 US News Ranking of the University of California campuses (excluding UC San Francisco).
 Coded by [R](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map%20code.R).
 
-- **[data analysis](https://github.com/thalia-L/thalia-L.github.io/blob/master/nutrition%20comparison%20between%20multiple%20fruit%20and%20vegetable.ipynb)**
+- **[Data Analysis](https://github.com/thalia-L/thalia-L.github.io/blob/master/nutrition%20comparison%20between%20multiple%20fruit%20and%20vegetable.ipynb)**
 
 <p>Nutrition Comparison between Multiple Fruits and Vegetables. The data is from a survey of the US Department of Agriculture.</p>
 
-- **statistic analysis**
+- **Statistic Analysis**
 
-- **final project presentation**
+- **Final Project Presentation**
 
 
 ### *Have a good day!*
