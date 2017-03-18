@@ -6,7 +6,7 @@ My name is Thalia(Jingxian) Liao, And Welcome to my code show!
 
 I am a graduate student at the department of Statistics at UC Davis. I got my bachlor‘s degree in Statistics from Hunan University, China. And I focused on the relationship between finance and real economy in my undergraduate time, so I am interested in High Dimensional Regression. After I realize the idea of NPL, I figure out it's a really amazing field to dig deeper. I am familiar with R, Python, C, and SAS.
 
-![Image](0a3ae9f353ee14fe4acc3f373a426a81.jpeg)
+![Image](src = 0a3ae9f353ee14fe4acc3f373a426a81.jpeg =100x100, style="float: right;")
 
 **Email**: jxliao@ucdavis.edu
 
