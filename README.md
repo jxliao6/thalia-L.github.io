@@ -10,20 +10,20 @@ I am a graduate student at the department of Statistics at UC Davis. I got my ba
 
 ## Project Exhibition
 
-- **[NPL]**(https://github.com/thalia-L/thalia-L.github.io/blob/master/NPL.ipynb) 
+- **[NPL](https://github.com/thalia-L/thalia-L.github.io/blob/master/NPL.ipynb) **
 
 
 
-- **[Web scrawl]**(https://github.com/thalia-L/thalia-L.github.io/blob/master/API.ipynb)
+- **[Web scrawl](https://github.com/thalia-L/thalia-L.github.io/blob/master/API.ipynb)**
 
 - **API**
 
-- **[map]**(https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map.pdf) 
+- **[map](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map.pdf) **
 
 <p>Map Description of the data 2017 US News Ranking of the University of California campuses (excluding UC San Francisco).
 Coded by [R](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map%20code.R).</p>
 
-- **[data analysis]**(https://github.com/thalia-L/thalia-L.github.io/blob/master/nutrition%20comparison%20between%20multiple%20fruit%20and%20vegetable.ipynb)
+- **[data analysis](https://github.com/thalia-L/thalia-L.github.io/blob/master/nutrition%20comparison%20between%20multiple%20fruit%20and%20vegetable.ipynb)**
 
 <p>Nutrition Comparison between Multiple Fruits and Vegetables. The data is from a survey of the US Department of Agriculture.</p>
 
