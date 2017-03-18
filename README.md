@@ -31,7 +31,8 @@ Nutrition Comparison between Multiple Fruits and Vegetables. The data is from a 
 
 - final project presentation
 
-* [Have a good day!][2].*
+
+<p>*Have a good day!*</p>
 
 
 <img src="1351c864341587bacede06533998184a.jpg" alt="Drawing" style="float: right;"/>
