@@ -10,29 +10,29 @@ I am a graduate student at the department of Statistics at UC Davis. I got my ba
 
 ## Project Exhibition
 
-- [NPL](https://github.com/thalia-L/thalia-L.github.io/blob/master/NPL.ipynb) 
+- **[NPL]**(https://github.com/thalia-L/thalia-L.github.io/blob/master/NPL.ipynb) 
 
 
 
-- [Web scrawl](https://github.com/thalia-L/thalia-L.github.io/blob/master/API.ipynb)
+- **[Web scrawl]**(https://github.com/thalia-L/thalia-L.github.io/blob/master/API.ipynb)
 
-- API
+- **API**
 
-- [map](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map.pdf) 
+- **[map]**(https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map.pdf) 
 
-Map Description of the data 2017 US News Ranking of the University of California campuses (excluding UC San Francisco).
-Coded by [R](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map%20code.R).
+<p>Map Description of the data 2017 US News Ranking of the University of California campuses (excluding UC San Francisco).
+Coded by [R](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map%20code.R).</p>
 
-- [data analysis](https://github.com/thalia-L/thalia-L.github.io/blob/master/nutrition%20comparison%20between%20multiple%20fruit%20and%20vegetable.ipynb)
+- **[data analysis]**(https://github.com/thalia-L/thalia-L.github.io/blob/master/nutrition%20comparison%20between%20multiple%20fruit%20and%20vegetable.ipynb)
 
-Nutrition Comparison between Multiple Fruits and Vegetables. The data is from a survey of the US Department of Agriculture.
+<p>Nutrition Comparison between Multiple Fruits and Vegetables. The data is from a survey of the US Department of Agriculture.</p>
 
-- statistic analysis
+- **statistic analysis**
 
-- final project presentation
+- **final project presentation**
 
 
-*Have a good day!*
+## *Have a good day!*
 
 
 <img src="1351c864341587bacede06533998184a.jpg" alt="Drawing" style="float: right;"/>
