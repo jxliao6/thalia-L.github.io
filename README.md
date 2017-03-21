@@ -5,7 +5,7 @@
 
 ## Personal information
 <div>
-<img src="1351c864341587bacede06533998184a.jpg" alt="Drawing" style="float: right;"/>
+<img src="3b16ceac75a3c42136c4d60ca8f04ade.jpg" alt="Drawing" style="float: right;"/>
 
 <p>I am a graduate student at the department of Statistics at UC Davis. I got my bachlor‘s degree in Statistics from Hunan University, China. And I focused on the relationship between finance and real economy in my undergraduate time, so I am interested in High Dimensional Regression. After I realized the idea of NPL, it looks like a really amazing field to dig deeper.</p>
 
