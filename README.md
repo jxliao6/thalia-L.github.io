@@ -1,4 +1,5 @@
 # Welcome to Thalia's Personal Pages
+* * *
 
 <p>My name is Thalia(Jingxian) Liao, And Welcome to my code show!</p>
 
