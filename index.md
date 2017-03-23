@@ -46,6 +46,6 @@ Coded by [R](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map
 ## Have a good day!
 
 
-<img src="1351c864341587bacede06533998184a.jpg" alt="Drawing" style="float: center;"/>
+<img src="1351c864341587bacede06533998184a.jpg" alt="Drawing" style="float: right;"/>
 
 
