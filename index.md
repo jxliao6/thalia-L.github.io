@@ -7,7 +7,9 @@
 <div>
 <img src="3b16ceac75a3c42136c4d60ca8f04ade.jpg" alt="Drawing" style="float: right;"/>
 
-<p>I am a graduate student at the department of Statistics at UC Davis. I got my bachlor's degree in Statistics from Hunan University, China. And I focused on the relationship between finance and real economy in my undergraduate time, so I am interested in High Dimensional Regression. After I realized the idea of NPL, it looks like a really amazing field to dig deeper.</p>
+<p>I am a graduate student at the department of Statistics at UC Davis. I got my bachlor's degree in Statistics from Hunan University, China. And I focused on the relationship between finance and real economy in my undergraduate time, so I am interested in High Dimensional Regression. After I realized the idea of NLP, it looks like a really amazing field to dig deeper.</p>
+
+<P></P>
 
 </div>
 **Email**: jxliao@ucdavis.edu
@@ -39,9 +41,9 @@ Coded by [R](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map
 <p>David Robinson has showed us great work analyzing Trump’s tweet data. Enlighted by this, we also want to do some research about this problem from other aspects. Except tweet contents themselves,there are also other important features of tweet data which show interesting inference of his personality and tweeting style. </p>
 
 
-<font size="6">*Have a good day!*</font> 
+<font size="10">Have a good day!</font> 
 
 
-<img src="1351c864341587bacede06533998184a.jpg" alt="Drawing" style="float: right;"/>
+<img src="1351c864341587bacede06533998184a.jpg" alt="Drawing" style="float: center;"/>
 
 
