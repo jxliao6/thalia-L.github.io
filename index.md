@@ -17,7 +17,7 @@
 ## Project Exhibition
 - **[Natural Language Process](https://github.com/thalia-L/thalia-L.github.io/blob/master/NPL.ipynb)**
 
-<p>Scrape text from The California Aggie website and then analyze the text.</p>
+<p>Scrape the articles from different lists of The California Aggie website and then analyze the text.</p>
 
 - **Web Scrawl**
 
@@ -36,7 +36,9 @@ Coded by [R](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map
 
 - **Statistic Analysis**
 
-- **[Twitter Analysis: Trump](https://kevinxucong.github.io/141B)** 141B final project 
+- **[Twitter Analysis: Trump](https://kevinxucong.github.io/141B)** 
+
+141B final project 
 
 <p>David Robinson has showed us great work analyzing Trump’s tweet data. Enlighted by this, we also want to do some research about this problem from other aspects. Except tweet contents themselves,there are also other important features of tweet data which show interesting inference of his personality and tweeting style. </p>
 
