@@ -35,7 +35,7 @@ Coded by [R](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map
 
 - **Statistic Analysis**
 
-- **Final Project Presentation**
+- **[Final Project Presentation](https://kevinxucong.github.io/141B/)**
 
 
 ### *Have a good day!*
