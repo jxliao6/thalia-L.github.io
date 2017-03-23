@@ -17,7 +17,7 @@
 ## Project Exhibition
 - **[Natural Language Process](https://github.com/thalia-L/thalia-L.github.io/blob/master/NPL.ipynb)**
 
-<p>Scrape the articles from different lists of The California Aggie website and then analyze the text.</p>
+<p>Scrape the articles from different lists of The California Aggie website and then analyze the text. The result shows that campus news and city news have different topics.</p>
 
 - **Web Scrawl**
 
@@ -43,7 +43,7 @@ Coded by [R](https://github.com/thalia-L/thalia-L.github.io/blob/master/uc%20map
 <p>David Robinson has showed us great work analyzing Trump’s tweet data. Enlighted by this, we also want to do some research about this problem from other aspects. Except tweet contents themselves,there are also other important features of tweet data which show interesting inference of his personality and tweeting style. </p>
 
 
-<font size="10">Have a good day!</font> 
+<font size="20">Have a good day!</font> 
 
 
 <img src="1351c864341587bacede06533998184a.jpg" alt="Drawing" style="float: center;"/>
