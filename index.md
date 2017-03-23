@@ -13,7 +13,7 @@
 **Email**: jxliao@ucdavis.edu
 
 ## Project Exhibition
-- **[NPL](https://github.com/thalia-L/thalia-L.github.io/blob/master/NPL.ipynb)**
+- **[NLP](https://github.com/thalia-L/thalia-L.github.io/blob/master/NPL.ipynb)**
 
 <p>Scrape text from The California Aggie website and then analyze the text.</p>
 
